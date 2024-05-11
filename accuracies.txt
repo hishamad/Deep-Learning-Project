@@ -1,2 +1,3 @@
 Base: The model achieved a final accuracy of 74.34%
 Base + Weight decay: The model achieved a final accuracy of 71.36%
+Base + Data Augmentation: The model achieved a final accuracy of 83.41%
