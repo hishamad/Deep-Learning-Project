@@ -1,3 +1,6 @@
 Base: The model achieved a final accuracy of 74.34%
 Base + Weight decay: The model achieved a final accuracy of 71.36%
 Base + Data Augmentation: The model achieved a final accuracy of 83.41%
+Base + Dropout: The model achieved a final accuracy of 82.91%
+Base + Dropout Increased: The model achieved a final accuracy of 84.12%
+Base + Dropout + Augmentation: The model achieved a final accuracy of 85.46%
