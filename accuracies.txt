@@ -4,3 +4,8 @@ Base + Data Augmentation: The model achieved a final accuracy of 83.41%
 Base + Dropout: The model achieved a final accuracy of 82.91%
 Base + Dropout Increased: The model achieved a final accuracy of 84.12%
 Base + Dropout + Augmentation: The model achieved a final accuracy of 85.46%
+Base + BatchNorm + Augmentation_exp4: The model achieved a final accuracy of 87.78%
+Base + Cosine: The model achieved a final accuracy of 89.38%
+Base + Dropout + Augmentation + Batch_400: The model achieved a final accuracy of 87.64%
+Base + Dropout + Augmentation_Exp4: The model achieved a final accuracy of 81.10%
+Base + Step Dcay: The model achieved a final accuracy of 87.09%
